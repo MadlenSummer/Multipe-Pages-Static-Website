@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    border-radius: 4px;
+    text-align: center;
+}
